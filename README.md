@@ -7,15 +7,14 @@ My experience includes API testing, web automation, database validation, and sof
 
 💻 Skills & Technologies
 Test Automation
-Selenium WebDriver
 Playwright
-Java
+JavaScript
 SQL
 REST APIs
 Postman
 Swagger
 Git & GitHub
-JUnit / TestNG
+TestNG
 CI/CD Fundamentals
 🚀 What You'll Find Here
 This GitHub showcases my automation projects, API testing exercises, SQL practice, and software testing solutions. Each project reflects my commitment to writing clean, maintainable code and continuously improving my technical skills.
