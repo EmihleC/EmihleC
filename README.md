@@ -27,7 +27,13 @@ This GitHub showcases my automation projects, API testing exercises, SQL practic
 
 > **"Driven by curiosity, powered by automation, committed to quality."**
 
-<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="160"/>
+<p align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+</p>
+
+
+</p>
 
 ### ⭐ Thanks for stopping by!
 
